@@ -9,7 +9,7 @@
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/tarzan1001/moviebot-">
+<a href="https://heroku.com/deploy?template=https://github.com/soulpc/Request-accepting-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
